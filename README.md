@@ -6,5 +6,5 @@ visual/: Includes scripts for visualization, such as plots, evaluation figures, 
 Requirement:
 Python 3.10 or higher
 Related Publication:
-This work is currently under review for publication in The Visual Computer.
+This work is currently under review for publication in International Journal of Machine Learning and Cybernetics.
 If you find this code useful, we kindly ask you to cite the corresponding paper once published.
